@@ -1,0 +1,167 @@
+[
+  {
+    "mobile": "9222222222",
+    "email": "order_test_retailer@test.com",
+    "role": "retailer",
+    "kycStatus": "verified",
+    "kycDetails": {
+      "businessName": "Super Food Mart",
+      "ownerName": "Bob Builder",
+      "businessAddress": "10th Cross, Indiranagar, Bengaluru"
+    },
+    "walletBalance": 100000,
+    "id": "e1qpqtqyq",
+    "createdAt": "2026-07-12T18:38:33.628Z",
+    "updatedAt": "2026-07-12T18:38:33.628Z"
+  },
+  {
+    "mobile": "9114414198",
+    "email": "test_retailer_1783881570941@test.com",
+    "password": "$2a$10$JhiM6kDatxgpJZwEhM5F0uxBTtaHwn0KS9of32Gfe1ziqqUejj3te",
+    "role": "retailer",
+    "kycStatus": "verified",
+    "kycDetails": {
+      "businessName": "Test Wholesale Store",
+      "ownerName": "Alice Tester",
+      "businessAddress": "Sector 5, Outer Ring Rd, Bengaluru",
+      "gstNumber": "29AAAAA0000A1Z1"
+    },
+    "walletBalance": 2000,
+    "id": "cv1ox1z33",
+    "createdAt": "2026-07-12T18:39:31.086Z",
+    "updatedAt": "2026-07-12T18:39:31.234Z"
+  },
+  {
+    "mobile": "9999999999",
+    "email": "admin@b2b.com",
+    "password": "$2a$10$VDK2o/vL4UkW1wgxdhMOTuRTO/qnR.8J2rSWuXcv1NoMqipYzRsc2",
+    "role": "admin",
+    "kycStatus": "verified",
+    "kycDetails": {
+      "businessName": "B2B Wholesale Admin HQ",
+      "ownerName": "System Administrator",
+      "businessAddress": "Sector 4, HSR Layout, Bengaluru"
+    },
+    "walletBalance": 0,
+    "id": "g47bw5k8y",
+    "createdAt": "2026-07-12T18:40:25.103Z",
+    "updatedAt": "2026-07-12T18:40:25.103Z"
+  },
+  {
+    "mobile": "9888888888",
+    "email": "retailer@b2b.com",
+    "password": "$2a$10$yCaPxi4Y8.wQDulin938POj0e9EmQfQWNuDVTZ9Xbml9jZKtwIBq.",
+    "role": "retailer",
+    "kycStatus": "verified",
+    "kycDetails": {
+      "gstNumber": "27AAAAA1111A1Z0",
+      "businessName": "Vikas General Store",
+      "ownerName": "Vikas Kumar",
+      "businessAddress": "5th Main, Koramangala, Bengaluru",
+      "panNumber": "ABCDE1234F"
+    },
+    "walletBalance": 50000,
+    "id": "mlf438hyb",
+    "createdAt": "2026-07-12T18:40:25.192Z",
+    "updatedAt": "2026-07-18T19:26:03.393Z",
+    "isBlocked": true
+  },
+  {
+    "mobile": "8210302931",
+    "email": "sahvijay056@gmail.com",
+    "password": "$2a$10$3UxRLPlL0elcKlToOfG.xegkpahPEs9hgoiNlwL9NJR.fzdGrx1KS",
+    "role": "retailer",
+    "kycStatus": "verified",
+    "kycDetails": {
+      "businessName": "Rahul",
+      "ownerName": "kumat",
+      "businessAddress": "sikyta",
+      "documentUrl": "https://via.placeholder.com/150"
+    },
+    "walletBalance": 2000,
+    "savedAddresses": [
+      "sikyta"
+    ],
+    "wishlist": [],
+    "id": "1lcpp6pqb",
+    "createdAt": "2026-07-12T18:50:17.184Z",
+    "updatedAt": "2026-07-16T18:43:52.195Z"
+  },
+  {
+    "mobile": "8210302932",
+    "email": "sahvijay058@gmail.com",
+    "password": "$2a$10$mBE5fbTWE5ufqc13zQdpG.FadUQJC9oKLkXtTGs.aC1xF8YFihhUS",
+    "role": "retailer",
+    "kycStatus": "verified",
+    "kycDetails": {
+      "businessName": "Rahul",
+      "ownerName": "kumar",
+      "businessAddress": "sikta",
+      "documentUrl": "na"
+    },
+    "walletBalance": 3999,
+    "savedAddresses": [
+      "sikta"
+    ],
+    "wishlist": [],
+    "id": "2vq3v7cki",
+    "createdAt": "2026-07-12T18:50:59.512Z",
+    "updatedAt": "2026-07-22T18:04:20.935Z",
+    "promoWalletBalance": 0
+  },
+  {
+    "mobile": "9777777777",
+    "email": "pending@b2b.com",
+    "password": "$2a$10$drcXPcnF5e/S8M5uaC6kU.C/2jSUjXarENQLPRTkIUPh9T82bWgo.",
+    "role": "retailer",
+    "kycStatus": "rejected",
+    "kycDetails": {
+      "businessName": "Pooja Supermarket",
+      "ownerName": "Pooja Sharma",
+      "businessAddress": "Sector 1, HSR Layout, Bengaluru"
+    },
+    "walletBalance": 1000,
+    "id": "cvz60gqsx",
+    "createdAt": "2026-07-14T18:22:19.221Z",
+    "updatedAt": "2026-07-14T18:28:32.588Z"
+  },
+  {
+    "mobile": "9973454427",
+    "email": "70332911@gmail.com",
+    "password": "$2a$10$DN1vHJ0CnfT5yGxN8Q1dAO8DFsb3qozuhmfIw5GK3mKm7Bhv3Q5uu",
+    "role": "retailer",
+    "kycStatus": "pending",
+    "kycDetails": {
+      "businessName": "9973454427",
+      "ownerName": "Rahul",
+      "businessAddress": "sikta",
+      "documentUrl": "https://via.placeholder.com/150"
+    },
+    "walletBalance": 0,
+    "promoWalletBalance": 0,
+    "savedAddresses": [
+      "sikta"
+    ],
+    "wishlist": [],
+    "id": "c4sh1tps1",
+    "createdAt": "2026-07-22T17:42:15.932Z",
+    "updatedAt": "2026-07-22T17:42:15.932Z"
+  },
+  {
+    "mobile": "demo",
+    "email": "demo",
+    "password": "$2a$10$bqDTmH8koytuInlG5qfhIehWGI3FxkL3VunVArDkJ.91oa.Y0JOUC",
+    "role": "retailer",
+    "kycStatus": "verified",
+    "kycDetails": {
+      "businessName": "Demo Retailer Store",
+      "ownerName": "Demo User",
+      "businessAddress": "Sikta Bazar, West Champaran, Bihar"
+    },
+    "walletBalance": 100000,
+    "id": "tvd2ynd6p",
+    "createdAt": "2026-07-24T17:37:02.463Z",
+    "updatedAt": "2026-07-24T17:38:24.696Z",
+    "promoWalletBalance": 10000
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "code": "WELCOMEB2B",
+    "discountType": "flat",
+    "discountValue": 500,
+    "minOrderAmount": 5000,
+    "isActive": true,
+    "expiresAt": "2030-12-31T23:59:59.000Z",
+    "id": "1hrmzc9nl",
+    "createdAt": "2026-07-12T18:38:33.620Z",
+    "updatedAt": "2026-07-12T18:38:33.620Z"
+  },
+  {
+    "code": "BULKDEAL10",
+    "discountType": "percentage",
+    "discountValue": 10,
+    "minOrderAmount": 20000,
+    "isActive": true,
+    "expiresAt": "2030-12-31T23:59:59.000Z",
+    "id": "3yx5d439n",
+    "createdAt": "2026-07-12T18:38:33.622Z",
+    "updatedAt": "2026-07-12T18:38:33.622Z"
+  },
+  {
+    "code": "NICE",
+    "discountType": "flat",
+    "discountValue": 500,
+    "minOrderAmount": 5100,
+    "isActive": true,
+    "expiresAt": "2026-07-15",
+    "restrictedPaymentMethod": "cod",
+    "id": "aw771zm35",
+    "createdAt": "2026-07-13T17:57:38.732Z",
+    "updatedAt": "2026-07-13T17:57:38.732Z"
+  }
+]

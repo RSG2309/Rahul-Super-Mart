@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Herbal Neem Face Wash (Pack of 12)",
+    "sku": "FACE-NEEM-003",
+    "brand": "Himalaya",
+    "category": "cosmetic",
+    "description": "Prevent pimples and clear skin blemishes. Purifying neem face wash bulk packs for retail shops.",
+    "images": [
+      "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=400&q=80"
+    ],
+    "mrp": 1800,
+    "wholesalePrice": 1200,
+    "retailerPrice": 1400,
+    "discount": 30,
+    "gstPercentage": 18,
+    "moq": 3,
+    "stock": 36000,
+    "weight": 2,
+    "unit": "Box",
+    "specifications": [
+      {
+        "key": "Pack Size",
+        "value": "12 Tubes x 150ml"
+      },
+      {
+        "key": "Skin Type",
+        "value": "All Skins"
+      }
+    ],
+    "id": "35rd509ka",
+    "createdAt": "2026-07-12T19:19:52.727Z",
+    "updatedAt": "2026-07-23T18:59:21.668Z"
+  },
+  {
+    "name": "Patanjali Soap Neem Pack of 5",
+    "sku": "soap1",
+    "brand": "pata",
+    "category": "grocery",
+    "description": "pata patanjali - Premium bulk retail supply.",
+    "images": [
+      "http://localhost:5000/api/uploads/product_1784222339676.jpg"
+    ],
+    "mrp": 200,
+    "wholesalePrice": 110,
+    "retailerPrice": 100,
+    "discount": 0,
+    "gstPercentage": 18,
+    "moq": 2,
+    "stock": 10000,
+    "weight": 1,
+    "unit": "Box",
+    "specifications": [],
+    "id": "az2tlkgdc",
+    "createdAt": "2026-07-16T17:19:31.299Z",
+    "updatedAt": "2026-07-23T19:15:33.813Z",
+    "isActive": true,
+    "sortOrder": 500
+  },
+  {
+    "name": "Dove Anti Hairfall Shampoo 1L",
+    "sku": "Shampoo",
+    "brand": "DOVE",
+    "category": "cosmetic",
+    "description": "DOVE Dove Anti Hairfall Shampoo 1L - Premium bulk retail supply.",
+    "images": [
+      "http://localhost:5000/api/uploads/product_1784312131183.jpeg"
+    ],
+    "mrp": 1394,
+    "wholesalePrice": 499,
+    "retailerPrice": 499,
+    "discount": 0,
+    "gstPercentage": 18,
+    "moq": 1,
+    "stock": 10000,
+    "weight": 1,
+    "unit": "Box",
+    "specifications": [],
+    "isActive": true,
+    "id": "t3n16sg2p",
+    "createdAt": "2026-07-17T18:15:46.811Z",
+    "updatedAt": "2026-07-23T19:15:59.317Z",
+    "sortOrder": 2
+  },
+  {
+    "name": "Bournvita Chocolate Nutrition Drink, 2 kg",
+    "sku": "NA",
+    "brand": "Cadbury",
+    "category": "grocery",
+    "description": "Cadbury Bournvita Chocolate Nutrition Drink, 2 kg - Premium bulk retail supply.",
+    "images": [
+      "http://localhost:5000/api/uploads/product_1784312818826.webp"
+    ],
+    "mrp": 828,
+    "wholesalePrice": 600,
+    "retailerPrice": 600,
+    "discount": 0,
+    "gstPercentage": 18,
+    "moq": 2,
+    "stock": 0,
+    "weight": 1,
+    "unit": "Box",
+    "specifications": [],
+    "isActive": true,
+    "id": "tukvmomh6",
+    "createdAt": "2026-07-17T18:27:24.462Z",
+    "updatedAt": "2026-07-23T19:16:07.768Z",
+    "sortOrder": 3
+  },
+  {
+    "name": "Horlicks Nutrition Drink Jar - 1 kg - ",
+    "sku": "Horlicks",
+    "brand": "HUL",
+    "category": "grocery",
+    "description": "Horlicks",
+    "images": [
+      "http://localhost:5000/api/uploads/product_1784833212552.jpg"
+    ],
+    "mrp": 425,
+    "wholesalePrice": 100,
+    "retailerPrice": 200,
+    "discount": 0,
+    "gstPercentage": 18,
+    "moq": 2,
+    "stock": 100000,
+    "weight": 1,
+    "unit": "Box",
+    "specifications": [
+      {
+        "key": "Expiry Date",
+        "value": "31/02/2026"
+      }
+    ],
+    "isActive": true,
+    "id": "z7fla3r8w",
+    "createdAt": "2026-07-23T19:01:18.358Z",
+    "updatedAt": "2026-07-23T19:19:36.443Z",
+    "sortOrder": 1
+  },
+  {
+    "name": "OnePlus Bullets Wireless Z3 in-Ear Neckband Red",
+    "sku": "Neckband",
+    "brand": "Oneplus",
+    "category": "electronics",
+    "description": "Oneplus OnePlus Bullets Wireless Z3 in-Ear Neckband Red - Premium bulk retail supply.",
+    "images": [
+      "http://localhost:5000/api/uploads/product_1784914910420.png"
+    ],
+    "mrp": 2999,
+    "wholesalePrice": 99,
+    "retailerPrice": 1399,
+    "discount": 0,
+    "gstPercentage": 18,
+    "moq": 1,
+    "stock": 100,
+    "weight": 1,
+    "unit": "Box",
+    "specifications": [],
+    "isActive": true,
+    "sortOrder": 3,
+    "id": "n3p8253kd",
+    "createdAt": "2026-07-24T17:42:31.637Z",
+    "updatedAt": "2026-07-25T06:17:58.227Z"
+  }
+]

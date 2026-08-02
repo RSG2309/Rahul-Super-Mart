@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Grocery",
+    "slug": "grocery",
+    "description": "Daily essential staples and grocery supplies",
+    "id": "ks3ud72u5",
+    "createdAt": "2026-07-12T19:19:52.711Z",
+    "updatedAt": "2026-07-12T19:19:52.711Z"
+  },
+  {
+    "name": "Cosmetic",
+    "slug": "cosmetic",
+    "description": "Bulk personal care, beauty, and cosmetic supplies",
+    "id": "azno1bdt2",
+    "createdAt": "2026-07-12T19:19:52.714Z",
+    "updatedAt": "2026-07-12T19:19:52.714Z"
+  },
+  {
+    "name": "Electronics",
+    "slug": "electronics",
+    "description": "Wholesale smart devices, appliances, and accessories",
+    "id": "a4dp58v6a",
+    "createdAt": "2026-07-12T19:19:52.717Z",
+    "updatedAt": "2026-07-12T19:19:52.717Z"
+  }
+]

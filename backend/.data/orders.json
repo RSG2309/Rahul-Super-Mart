@@ -1,0 +1,492 @@
+[
+  {
+    "retailerId": "2vq3v7cki",
+    "businessName": "Rahul",
+    "items": [
+      {
+        "productId": "ciwcjyh9b",
+        "name": "Premium Basmati Rice (10kg)",
+        "sku": "RICE-BAS-001",
+        "quantity": 5,
+        "price": 100,
+        "gstPercentage": 0,
+        "gstAmount": 0,
+        "subtotal": 500
+      }
+    ],
+    "deliveryAddress": "sikta",
+    "paymentMethod": "wallet",
+    "paymentStatus": "refunded",
+    "amounts": {
+      "subtotal": 500,
+      "gstTotal": 0,
+      "shipping": 500,
+      "codCharge": 0,
+      "discount": 0,
+      "finalTotal": 1000
+    },
+    "otpVerification": {
+      "code": "158775",
+      "isVerified": false
+    },
+    "pincode": "845307",
+    "id": "0hiv4iqnb",
+    "createdAt": "2026-07-13T17:08:32.378Z",
+    "updatedAt": "2026-07-14T18:35:04.893Z",
+    "transactionId": "dubp6unbd",
+    "orderStatus": "returned"
+  },
+  {
+    "retailerId": "2vq3v7cki",
+    "businessName": "Rahul",
+    "items": [
+      {
+        "productId": "35rd509ka",
+        "name": "Herbal Neem Face Wash (Pack of 12)",
+        "sku": "FACE-NEEM-003",
+        "quantity": 15,
+        "price": 1400,
+        "gstPercentage": 0,
+        "gstAmount": 0,
+        "subtotal": 21000
+      }
+    ],
+    "deliveryAddress": "sikta",
+    "paymentMethod": "online",
+    "paymentStatus": "refunded",
+    "amounts": {
+      "subtotal": 21000,
+      "gstTotal": 0,
+      "shipping": 0,
+      "codCharge": 0,
+      "discount": 0,
+      "finalTotal": 21000
+    },
+    "otpVerification": {
+      "code": "287492",
+      "isVerified": false
+    },
+    "pincode": "560038",
+    "id": "j5pgyx7v3",
+    "createdAt": "2026-07-14T18:52:30.357Z",
+    "updatedAt": "2026-07-14T18:54:36.823Z",
+    "transactionId": "w20k99lmq",
+    "orderStatus": "returned"
+  },
+  {
+    "retailerId": "2vq3v7cki",
+    "businessName": "Rahul",
+    "items": [
+      {
+        "productId": "1ossacbrw",
+        "name": "Organic Kachi Ghani Mustard Oil (5L)",
+        "sku": "OIL-MUST-002",
+        "quantity": 4,
+        "price": 780,
+        "gstPercentage": 0,
+        "gstAmount": 0,
+        "subtotal": 3120
+      }
+    ],
+    "deliveryAddress": "sikta",
+    "paymentMethod": "cod",
+    "paymentStatus": "paid",
+    "amounts": {
+      "subtotal": 3120,
+      "gstTotal": 0,
+      "shipping": 0,
+      "codCharge": 0,
+      "discount": 0,
+      "finalTotal": 3120
+    },
+    "otpVerification": {
+      "code": "232791",
+      "isVerified": false
+    },
+    "pincode": "560038",
+    "id": "8e0msiees",
+    "createdAt": "2026-07-14T18:55:28.324Z",
+    "updatedAt": "2026-07-14T19:34:20.287Z",
+    "transactionId": "fhom2igss",
+    "orderStatus": "delivered",
+    "otpVerification.isVerified": true
+  },
+  {
+    "retailerId": "2vq3v7cki",
+    "businessName": "Rahul",
+    "items": [
+      {
+        "productId": "35rd509ka",
+        "name": "Herbal Neem Face Wash (Pack of 12)",
+        "sku": "FACE-NEEM-003",
+        "quantity": 3,
+        "price": 1400,
+        "gstPercentage": 0,
+        "gstAmount": 0,
+        "subtotal": 4200
+      }
+    ],
+    "deliveryAddress": "sikta bazar, po sikta 845307",
+    "paymentMethod": "wallet",
+    "paymentStatus": "paid",
+    "orderStatus": "delivered",
+    "amounts": {
+      "subtotal": 4200,
+      "gstTotal": 0,
+      "shipping": 0,
+      "codCharge": 0,
+      "discount": 0,
+      "finalTotal": 4200
+    },
+    "otpVerification": {
+      "code": "536094",
+      "isVerified": false
+    },
+    "pincode": "845307",
+    "id": "xvhtrumdp",
+    "createdAt": "2026-07-16T17:09:36.696Z",
+    "updatedAt": "2026-07-16T17:09:57.157Z",
+    "transactionId": "rxsqsrrz3"
+  },
+  {
+    "retailerId": "2vq3v7cki",
+    "businessName": "Rahul",
+    "items": [
+      {
+        "productId": "az2tlkgdc",
+        "name": "patanjali",
+        "sku": "soap1",
+        "quantity": 2,
+        "price": 100,
+        "gstPercentage": 0,
+        "gstAmount": 0,
+        "subtotal": 200
+      }
+    ],
+    "deliveryAddress": "sikta",
+    "paymentMethod": "wallet",
+    "paymentStatus": "refunded",
+    "orderStatus": "returned",
+    "amounts": {
+      "subtotal": 200,
+      "gstTotal": 0,
+      "shipping": 0,
+      "codCharge": 0,
+      "discount": 0,
+      "finalTotal": 200
+    },
+    "otpVerification": {
+      "code": "600358",
+      "isVerified": false
+    },
+    "pincode": "845307",
+    "id": "pc0ok4fo7",
+    "createdAt": "2026-07-18T17:44:55.673Z",
+    "updatedAt": "2026-07-18T17:45:50.607Z",
+    "transactionId": "ceh86fvd1"
+  },
+  {
+    "retailerId": "2vq3v7cki",
+    "businessName": "Rahul",
+    "items": [
+      {
+        "productId": "35rd509ka",
+        "name": "Herbal Neem Face Wash (Pack of 12)",
+        "sku": "FACE-NEEM-003",
+        "quantity": 6,
+        "price": 1400,
+        "gstPercentage": 0,
+        "gstAmount": 0,
+        "subtotal": 8400
+      }
+    ],
+    "deliveryAddress": "sikta",
+    "paymentMethod": "online",
+    "paymentStatus": "paid",
+    "orderStatus": "cancelled",
+    "amounts": {
+      "subtotal": 8400,
+      "gstTotal": 0,
+      "shipping": 0,
+      "codCharge": 0,
+      "discount": 0,
+      "finalTotal": 8300,
+      "promoDeduction": 100
+    },
+    "otpVerification": {
+      "code": "891350",
+      "isVerified": false
+    },
+    "pincode": "845307",
+    "id": "662s17m6v",
+    "createdAt": "2026-07-18T18:56:48.687Z",
+    "updatedAt": "2026-07-22T17:55:55.935Z",
+    "transactionId": "x7x4i1qlu"
+  },
+  {
+    "retailerId": "2vq3v7cki",
+    "businessName": "Rahul",
+    "items": [
+      {
+        "productId": "az2tlkgdc",
+        "name": "patanjali",
+        "sku": "soap1",
+        "quantity": 2,
+        "price": 100,
+        "gstPercentage": 0,
+        "gstAmount": 0,
+        "subtotal": 200
+      }
+    ],
+    "deliveryAddress": "sikta",
+    "paymentMethod": "online",
+    "paymentStatus": "paid",
+    "orderStatus": "cancelled",
+    "amounts": {
+      "subtotal": 200,
+      "gstTotal": 0,
+      "shipping": 0,
+      "codCharge": 0,
+      "discount": 0,
+      "finalTotal": 200,
+      "promoDeduction": 0
+    },
+    "otpVerification": {
+      "code": "560444",
+      "isVerified": false
+    },
+    "pincode": "845307",
+    "id": "a04aijh98",
+    "createdAt": "2026-07-18T18:59:02.231Z",
+    "updatedAt": "2026-07-22T17:55:57.859Z",
+    "transactionId": "uog0b6l3m"
+  },
+  {
+    "retailerId": "2vq3v7cki",
+    "businessName": "Rahul",
+    "items": [
+      {
+        "productId": "az2tlkgdc",
+        "name": "patanjali",
+        "sku": "soap1",
+        "quantity": 2,
+        "price": 100,
+        "gstPercentage": 0,
+        "gstAmount": 0,
+        "subtotal": 200
+      }
+    ],
+    "deliveryAddress": "sikta",
+    "paymentMethod": "online",
+    "paymentStatus": "paid",
+    "orderStatus": "cancelled",
+    "amounts": {
+      "subtotal": 200,
+      "gstTotal": 0,
+      "shipping": 0,
+      "codCharge": 0,
+      "discount": 0,
+      "finalTotal": 200,
+      "promoDeduction": 0
+    },
+    "otpVerification": {
+      "code": "701519",
+      "isVerified": false
+    },
+    "pincode": "845307",
+    "id": "jykqfwjra",
+    "createdAt": "2026-07-18T18:59:02.270Z",
+    "updatedAt": "2026-07-22T17:55:59.916Z",
+    "transactionId": "s6crt4u53"
+  },
+  {
+    "retailerId": "2vq3v7cki",
+    "businessName": "Rahul",
+    "items": [
+      {
+        "productId": "t3n16sg2p",
+        "name": "Dove Anti Hairfall Shampoo 1L",
+        "sku": "Shampoo",
+        "quantity": 1,
+        "price": 499,
+        "gstPercentage": 0,
+        "gstAmount": 0,
+        "subtotal": 499
+      }
+    ],
+    "deliveryAddress": "sikta",
+    "paymentMethod": "online",
+    "paymentStatus": "paid",
+    "orderStatus": "cancelled",
+    "amounts": {
+      "subtotal": 499,
+      "gstTotal": 0,
+      "shipping": 0,
+      "codCharge": 0,
+      "discount": 0,
+      "finalTotal": 499,
+      "promoDeduction": 0
+    },
+    "otpVerification": {
+      "code": "615449",
+      "isVerified": false
+    },
+    "pincode": "845307",
+    "id": "1py2bitmh",
+    "createdAt": "2026-07-18T19:04:06.748Z",
+    "updatedAt": "2026-07-22T17:56:02.164Z",
+    "transactionId": "wekdgm5yg"
+  },
+  {
+    "retailerId": "2vq3v7cki",
+    "businessName": "Rahul",
+    "items": [
+      {
+        "productId": "t3n16sg2p",
+        "name": "Dove Anti Hairfall Shampoo 1L",
+        "sku": "Shampoo",
+        "quantity": 1,
+        "price": 499,
+        "gstPercentage": 0,
+        "gstAmount": 0,
+        "subtotal": 499
+      }
+    ],
+    "deliveryAddress": "sikta",
+    "paymentMethod": "online",
+    "paymentStatus": "refunded",
+    "orderStatus": "returned",
+    "amounts": {
+      "subtotal": 499,
+      "gstTotal": 0,
+      "shipping": 0,
+      "codCharge": 0,
+      "discount": 0,
+      "finalTotal": 499,
+      "promoDeduction": 0
+    },
+    "otpVerification": {
+      "code": "984711",
+      "isVerified": false
+    },
+    "pincode": "845307",
+    "id": "fojybfj2d",
+    "createdAt": "2026-07-18T19:07:44.566Z",
+    "updatedAt": "2026-07-22T17:56:12.374Z",
+    "transactionId": "n22odrjhv"
+  },
+  {
+    "retailerId": "2vq3v7cki",
+    "businessName": "Rahul",
+    "items": [
+      {
+        "productId": "t3n16sg2p",
+        "name": "Dove Anti Hairfall Shampoo 1L",
+        "sku": "Shampoo",
+        "quantity": 7,
+        "price": 499,
+        "gstPercentage": 0,
+        "gstAmount": 0,
+        "subtotal": 3493
+      }
+    ],
+    "deliveryAddress": "sikta",
+    "paymentMethod": "online",
+    "paymentStatus": "paid",
+    "orderStatus": "cancelled",
+    "amounts": {
+      "subtotal": 3493,
+      "gstTotal": 0,
+      "shipping": 0,
+      "codCharge": 0,
+      "discount": 0,
+      "finalTotal": 3493,
+      "promoDeduction": 0
+    },
+    "otpVerification": {
+      "code": "124966",
+      "isVerified": false
+    },
+    "pincode": "845307",
+    "id": "9m83fz3d1",
+    "createdAt": "2026-07-22T17:54:57.309Z",
+    "updatedAt": "2026-07-22T17:56:07.676Z",
+    "transactionId": "obsn7ss19"
+  },
+  {
+    "retailerId": "2vq3v7cki",
+    "businessName": "Rahul",
+    "items": [
+      {
+        "productId": "az2tlkgdc",
+        "name": "patanjali",
+        "sku": "soap1",
+        "quantity": 3,
+        "price": 100,
+        "gstPercentage": 0,
+        "gstAmount": 0,
+        "subtotal": 300
+      }
+    ],
+    "deliveryAddress": "sikta",
+    "paymentMethod": "wallet",
+    "paymentStatus": "paid",
+    "orderStatus": "cancelled",
+    "amounts": {
+      "subtotal": 300,
+      "gstTotal": 0,
+      "shipping": 0,
+      "codCharge": 0,
+      "discount": 0,
+      "finalTotal": 300,
+      "promoDeduction": 0
+    },
+    "otpVerification": {
+      "code": "882954",
+      "isVerified": false
+    },
+    "pincode": "845307",
+    "id": "rfcsdeumg",
+    "createdAt": "2026-07-22T18:03:51.341Z",
+    "updatedAt": "2026-07-22T18:04:32.668Z",
+    "transactionId": "xp9hwm32g"
+  },
+  {
+    "retailerId": "2vq3v7cki",
+    "businessName": "Rahul",
+    "items": [
+      {
+        "productId": "tukvmomh6",
+        "name": "Bournvita Chocolate Nutrition Drink, 2 kg",
+        "sku": "NA",
+        "quantity": 10,
+        "price": 600,
+        "gstPercentage": 0,
+        "gstAmount": 0,
+        "subtotal": 6000
+      }
+    ],
+    "deliveryAddress": "sikta",
+    "paymentMethod": "wallet",
+    "paymentStatus": "paid",
+    "orderStatus": "delivered",
+    "amounts": {
+      "subtotal": 6000,
+      "gstTotal": 0,
+      "shipping": 0,
+      "codCharge": 0,
+      "discount": 0,
+      "finalTotal": 6000,
+      "promoDeduction": 0
+    },
+    "otpVerification": {
+      "code": "863231",
+      "isVerified": false
+    },
+    "pincode": "845307",
+    "id": "swyf389a4",
+    "createdAt": "2026-07-22T18:04:20.945Z",
+    "updatedAt": "2026-07-22T18:05:02.139Z",
+    "transactionId": "5jlcnrqlc"
+  }
+]

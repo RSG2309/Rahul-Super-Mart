@@ -1,0 +1,564 @@
+[
+  {
+    "id": "uhdxatyez",
+    "type": "email",
+    "recipient": "sahvijay056@gmail.com",
+    "subject": "Welcome to B2B Wholesale Platform!",
+    "message": "Hi kumat,\n\nThank you for registering your business \"Rahul\" with us. Your KYC document submission is currently pending verification. You can browse products immediately, but will be able to place bulk orders once verified.\n\nWarm regards,\nB2B Wholesale Team",
+    "timestamp": "2026-07-12T18:50:17.190Z"
+  },
+  {
+    "id": "y5ufvjndw",
+    "type": "sms",
+    "recipient": "8210302931",
+    "message": "Welcome to B2B Wholesale Hub! Business Rahul registered. Complete KYC to unlock wholesale pricing and bulk deals.",
+    "timestamp": "2026-07-12T18:50:17.193Z"
+  },
+  {
+    "id": "rruyjib3m",
+    "type": "email",
+    "recipient": "sahvijay058@gmail.com",
+    "subject": "Welcome to B2B Wholesale Platform!",
+    "message": "Hi kumat,\n\nThank you for registering your business \"Rahul\" with us. Your KYC document submission is currently pending verification. You can browse products immediately, but will be able to place bulk orders once verified.\n\nWarm regards,\nB2B Wholesale Team",
+    "timestamp": "2026-07-12T18:50:59.516Z"
+  },
+  {
+    "id": "77t57ioxw",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Welcome to B2B Wholesale Hub! Business Rahul registered. Complete KYC to unlock wholesale pricing and bulk deals.",
+    "timestamp": "2026-07-12T18:50:59.519Z"
+  },
+  {
+    "id": "90xhfw3rm",
+    "type": "sms",
+    "recipient": "9777777777",
+    "message": "Congratulations! Your business KYC verification has been APPROVED. You can now place bulk wholesale orders.",
+    "timestamp": "2026-07-13T17:07:59.038Z"
+  },
+  {
+    "id": "rydaj7oap",
+    "type": "email",
+    "recipient": "pending@b2b.com",
+    "subject": "Business KYC Verified - B2B Wholesale Hub",
+    "message": "Hi Pooja Sharma,\n\nWe are pleased to inform you that your business KYC document check was successful. Your account is now fully active.\n\nYou can access bulk offers, volume discount slabs, and COD options.\n\nHappy trading!\nB2B Partner Support Team",
+    "timestamp": "2026-07-13T17:07:59.041Z"
+  },
+  {
+    "id": "ih0v9t3l7",
+    "type": "sms",
+    "recipient": "8210302931",
+    "message": "Congratulations! Your business KYC verification has been APPROVED. You can now place bulk wholesale orders.",
+    "timestamp": "2026-07-13T17:08:00.396Z"
+  },
+  {
+    "id": "620uwxout",
+    "type": "email",
+    "recipient": "sahvijay056@gmail.com",
+    "subject": "Business KYC Verified - B2B Wholesale Hub",
+    "message": "Hi kumat,\n\nWe are pleased to inform you that your business KYC document check was successful. Your account is now fully active.\n\nYou can access bulk offers, volume discount slabs, and COD options.\n\nHappy trading!\nB2B Partner Support Team",
+    "timestamp": "2026-07-13T17:08:00.398Z"
+  },
+  {
+    "id": "h76m8p516",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Congratulations! Your business KYC verification has been APPROVED. You can now place bulk wholesale orders.",
+    "timestamp": "2026-07-13T17:08:03.557Z"
+  },
+  {
+    "id": "8q413mod4",
+    "type": "email",
+    "recipient": "sahvijay058@gmail.com",
+    "subject": "Business KYC Verified - B2B Wholesale Hub",
+    "message": "Hi kumat,\n\nWe are pleased to inform you that your business KYC document check was successful. Your account is now fully active.\n\nYou can access bulk offers, volume discount slabs, and COD options.\n\nHappy trading!\nB2B Partner Support Team",
+    "timestamp": "2026-07-13T17:08:03.560Z"
+  },
+  {
+    "id": "vec3nakat",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Order CONFIRMED! Order ID: 0hiv4iqnb. Total Amount: INR 1000.00. Payment received.",
+    "timestamp": "2026-07-13T17:08:32.462Z"
+  },
+  {
+    "id": "5qkl2hen6",
+    "type": "whatsapp",
+    "recipient": "8210302932",
+    "message": "Greetings kumat,\n\nYour bulk order was placed successfully.\nOrder ID: 0hiv4iqnb\nItems: 1\nTotal: INR 1000.00\nInvoice generated. Thank you for shopping with us!",
+    "attachmentName": "invoice_0hiv4iqnb.pdf",
+    "timestamp": "2026-07-13T17:08:32.464Z"
+  },
+  {
+    "id": "swa292tie",
+    "type": "email",
+    "recipient": "sahvijay058@gmail.com",
+    "subject": "Tax Invoice for Order #0hiv4iqnb",
+    "message": "Hi kumat,\n\nYour order #0hiv4iqnb has been received. Please find attached the official Tax Invoice PDF.\n\nWarm regards,\nB2B Billing Dept",
+    "attachmentName": "invoice_0hiv4iqnb.pdf",
+    "timestamp": "2026-07-13T17:08:32.468Z"
+  },
+  {
+    "id": "9ajzjq90a",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Congratulations! Your business KYC verification has been APPROVED. You can now place bulk wholesale orders.",
+    "timestamp": "2026-07-14T18:05:02.570Z"
+  },
+  {
+    "id": "xrhhltpft",
+    "type": "email",
+    "recipient": "sahvijay058@gmail.com",
+    "subject": "Business KYC Verified - B2B Wholesale Hub",
+    "message": "Hi kumar,\n\nWe are pleased to inform you that your business KYC document check was successful. Your account is now fully active.\n\nYou can access bulk offers, volume discount slabs, and COD options.\n\nHappy trading!\nB2B Partner Support Team",
+    "timestamp": "2026-07-14T18:05:02.575Z"
+  },
+  {
+    "id": "6cg6e7a76",
+    "type": "sms",
+    "recipient": "9777777777",
+    "message": "Alert: Your KYC verification has been REJECTED. Please re-upload clear business proof on the dashboard.",
+    "timestamp": "2026-07-14T18:28:32.594Z"
+  },
+  {
+    "id": "wj09d0deh",
+    "type": "email",
+    "recipient": "pending@b2b.com",
+    "subject": "Business KYC Rejected - B2B Wholesale Hub",
+    "message": "Hi Pooja Sharma,\n\nWe were unable to verify your business credentials with the provided documents. Please ensure your GST/PAN details match your business proof.\n\nKindly log in to re-submit clear documents.\n\nSincerely,\nKYC Verification Dept",
+    "timestamp": "2026-07-14T18:28:32.598Z"
+  },
+  {
+    "id": "sq48kcusv",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Refund of INR 1000.00 for order #0hiv4iqnb has been credited to your B2B wallet.",
+    "timestamp": "2026-07-14T18:35:04.901Z"
+  },
+  {
+    "id": "md07ojp84",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Order CONFIRMED! Order ID: j5pgyx7v3. Total Amount: INR 21000.00. Payment received.",
+    "timestamp": "2026-07-14T18:52:30.371Z"
+  },
+  {
+    "id": "amq2a58m1",
+    "type": "whatsapp",
+    "recipient": "8210302932",
+    "message": "Greetings kumar,\n\nYour bulk order was placed successfully.\nOrder ID: j5pgyx7v3\nItems: 1\nTotal: INR 21000.00\nThank you for shopping with us!",
+    "timestamp": "2026-07-14T18:52:30.378Z"
+  },
+  {
+    "id": "4mof89iex",
+    "type": "email",
+    "recipient": "sahvijay058@gmail.com",
+    "subject": "Order Confirmation #j5pgyx7v3",
+    "message": "Hi kumar,\n\nYour order #j5pgyx7v3 has been received. Thank you for shopping with us!\n\nWarm regards,\nVishal Store Billing Dept",
+    "timestamp": "2026-07-14T18:52:30.383Z"
+  },
+  {
+    "id": "57sx1l0mv",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Refund of INR 21000.00 for order #j5pgyx7v3 has been credited to your B2B wallet.",
+    "timestamp": "2026-07-14T18:54:36.831Z"
+  },
+  {
+    "id": "nfbcori9j",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Order CONFIRMED! Order ID: 8e0msiees. Total Amount: INR 3120.00. Please share OTP 232791 with delivery agent upon arrival.",
+    "timestamp": "2026-07-14T18:55:28.331Z"
+  },
+  {
+    "id": "gw9wvd9g3",
+    "type": "whatsapp",
+    "recipient": "8210302932",
+    "message": "Greetings kumar,\n\nYour bulk order was placed successfully.\nOrder ID: 8e0msiees\nItems: 1\nTotal: INR 3120.00\nThank you for shopping with us!",
+    "timestamp": "2026-07-14T18:55:28.336Z"
+  },
+  {
+    "id": "1skkjt5ue",
+    "type": "email",
+    "recipient": "sahvijay058@gmail.com",
+    "subject": "Order Confirmation #8e0msiees",
+    "message": "Hi kumar,\n\nYour order #8e0msiees has been received. Thank you for shopping with us!\n\nWarm regards,\nVishal Store Billing Dept",
+    "timestamp": "2026-07-14T18:55:28.340Z"
+  },
+  {
+    "id": "vankut6cr",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Your B2B order #8e0msiees has been marked as: ACCEPTED.",
+    "timestamp": "2026-07-14T19:28:22.742Z"
+  },
+  {
+    "id": "2nzp3zc0o",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Your B2B order #8e0msiees has been marked as: DISPATCHED.",
+    "timestamp": "2026-07-14T19:28:58.506Z"
+  },
+  {
+    "id": "hljsyw221",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Order CONFIRMED! Order ID: xvhtrumdp. Total Amount: INR 4200.00. Payment received.",
+    "timestamp": "2026-07-16T17:09:36.703Z"
+  },
+  {
+    "id": "woz7vz46i",
+    "type": "whatsapp",
+    "recipient": "8210302932",
+    "message": "Greetings kumar,\n\nYour bulk order was placed successfully.\nOrder ID: xvhtrumdp\nItems: 1\nTotal: INR 4200.00\nThank you for shopping with us!",
+    "timestamp": "2026-07-16T17:09:36.706Z"
+  },
+  {
+    "id": "9n20gr6kj",
+    "type": "email",
+    "recipient": "sahvijay058@gmail.com",
+    "subject": "Order Confirmation #xvhtrumdp",
+    "message": "Hi kumar,\n\nYour order #xvhtrumdp has been received. Thank you for shopping with us!\n\nWarm regards,\nVishal Store Billing Dept",
+    "timestamp": "2026-07-16T17:09:36.709Z"
+  },
+  {
+    "id": "xzbrqu516",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Your B2B order #xvhtrumdp has been marked as: ACCEPTED.",
+    "timestamp": "2026-07-16T17:09:51.535Z"
+  },
+  {
+    "id": "nuxnp5t46",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Your B2B order #xvhtrumdp has been marked as: DISPATCHED.",
+    "timestamp": "2026-07-16T17:09:54.614Z"
+  },
+  {
+    "id": "tsprt5azg",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Your B2B order #xvhtrumdp has been marked as: DELIVERED.",
+    "timestamp": "2026-07-16T17:09:57.162Z"
+  },
+  {
+    "id": "uw9llfx4o",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Order CONFIRMED! Order ID: pc0ok4fo7. Total Amount: INR 200.00. Payment received.",
+    "timestamp": "2026-07-18T17:44:55.681Z"
+  },
+  {
+    "id": "bcgr139v5",
+    "type": "whatsapp",
+    "recipient": "8210302932",
+    "message": "Greetings kumar,\n\nYour bulk order was placed successfully.\nOrder ID: pc0ok4fo7\nItems: 1\nTotal: INR 200.00\nThank you for shopping with us!",
+    "timestamp": "2026-07-18T17:44:55.684Z"
+  },
+  {
+    "id": "opmnfam7t",
+    "type": "email",
+    "recipient": "sahvijay058@gmail.com",
+    "subject": "Order Confirmation #pc0ok4fo7",
+    "message": "Hi kumar,\n\nYour order #pc0ok4fo7 has been received. Thank you for shopping with us!\n\nWarm regards,\nVishal Store Billing Dept",
+    "timestamp": "2026-07-18T17:44:55.687Z"
+  },
+  {
+    "id": "112q5v6on",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Your B2B order #pc0ok4fo7 has been marked as: CANCELLED.",
+    "timestamp": "2026-07-18T17:45:48.322Z"
+  },
+  {
+    "id": "tof6eip56",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Refund of INR 200.00 for order #pc0ok4fo7 has been credited to your B2B wallet.",
+    "timestamp": "2026-07-18T17:45:50.613Z"
+  },
+  {
+    "id": "r3z3itvk8",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Order CONFIRMED! Order ID: 662s17m6v. Total Amount: INR 8400.00. Payment received.",
+    "timestamp": "2026-07-18T18:56:48.702Z"
+  },
+  {
+    "id": "u8q05erl5",
+    "type": "whatsapp",
+    "recipient": "8210302932",
+    "message": "Greetings kumar,\n\nYour bulk order was placed successfully.\nOrder ID: 662s17m6v\nItems: 1\nTotal: INR 8400.00\nThank you for shopping with us!",
+    "timestamp": "2026-07-18T18:56:48.708Z"
+  },
+  {
+    "id": "v4y0h3uwg",
+    "type": "email",
+    "recipient": "sahvijay058@gmail.com",
+    "subject": "Order Confirmation #662s17m6v",
+    "message": "Hi kumar,\n\nYour order #662s17m6v has been received. Thank you for shopping with us!\n\nWarm regards,\nVishal Store Billing Dept",
+    "timestamp": "2026-07-18T18:56:48.711Z"
+  },
+  {
+    "id": "dmf0dyfga",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Order CONFIRMED! Order ID: a04aijh98. Total Amount: INR 200.00. Payment received.",
+    "timestamp": "2026-07-18T18:59:02.240Z"
+  },
+  {
+    "id": "dxe7h156s",
+    "type": "whatsapp",
+    "recipient": "8210302932",
+    "message": "Greetings kumar,\n\nYour bulk order was placed successfully.\nOrder ID: a04aijh98\nItems: 1\nTotal: INR 200.00\nThank you for shopping with us!",
+    "timestamp": "2026-07-18T18:59:02.243Z"
+  },
+  {
+    "id": "pog1moplf",
+    "type": "email",
+    "recipient": "sahvijay058@gmail.com",
+    "subject": "Order Confirmation #a04aijh98",
+    "message": "Hi kumar,\n\nYour order #a04aijh98 has been received. Thank you for shopping with us!\n\nWarm regards,\nVishal Store Billing Dept",
+    "timestamp": "2026-07-18T18:59:02.247Z"
+  },
+  {
+    "id": "jsirlyoi7",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Order CONFIRMED! Order ID: jykqfwjra. Total Amount: INR 200.00. Payment received.",
+    "timestamp": "2026-07-18T18:59:02.279Z"
+  },
+  {
+    "id": "ax7gdahf5",
+    "type": "whatsapp",
+    "recipient": "8210302932",
+    "message": "Greetings kumar,\n\nYour bulk order was placed successfully.\nOrder ID: jykqfwjra\nItems: 1\nTotal: INR 200.00\nThank you for shopping with us!",
+    "timestamp": "2026-07-18T18:59:02.287Z"
+  },
+  {
+    "id": "3loh4j7hr",
+    "type": "email",
+    "recipient": "sahvijay058@gmail.com",
+    "subject": "Order Confirmation #jykqfwjra",
+    "message": "Hi kumar,\n\nYour order #jykqfwjra has been received. Thank you for shopping with us!\n\nWarm regards,\nVishal Store Billing Dept",
+    "timestamp": "2026-07-18T18:59:02.291Z"
+  },
+  {
+    "id": "bjnhdyg5q",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Order CONFIRMED! Order ID: 1py2bitmh. Total Amount: INR 499.00. Payment received.",
+    "timestamp": "2026-07-18T19:04:06.755Z"
+  },
+  {
+    "id": "c8w28n0hr",
+    "type": "whatsapp",
+    "recipient": "8210302932",
+    "message": "Greetings kumar,\n\nYour bulk order was placed successfully.\nOrder ID: 1py2bitmh\nItems: 1\nTotal: INR 499.00\nThank you for shopping with us!",
+    "timestamp": "2026-07-18T19:04:06.758Z"
+  },
+  {
+    "id": "tqllakj6h",
+    "type": "email",
+    "recipient": "sahvijay058@gmail.com",
+    "subject": "Order Confirmation #1py2bitmh",
+    "message": "Hi kumar,\n\nYour order #1py2bitmh has been received. Thank you for shopping with us!\n\nWarm regards,\nVishal Store Billing Dept",
+    "timestamp": "2026-07-18T19:04:06.760Z"
+  },
+  {
+    "id": "r90r3w8sg",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Order CONFIRMED! Order ID: fojybfj2d. Total Amount: INR 499.00. Payment received.",
+    "timestamp": "2026-07-18T19:07:44.575Z"
+  },
+  {
+    "id": "gwzr7bizo",
+    "type": "whatsapp",
+    "recipient": "8210302932",
+    "message": "Greetings kumar,\n\nYour bulk order was placed successfully.\nOrder ID: fojybfj2d\nItems: 1\nTotal: INR 499.00\nThank you for shopping with us!",
+    "timestamp": "2026-07-18T19:07:44.578Z"
+  },
+  {
+    "id": "kltmks89t",
+    "type": "email",
+    "recipient": "sahvijay058@gmail.com",
+    "subject": "Order Confirmation #fojybfj2d",
+    "message": "Hi kumar,\n\nYour order #fojybfj2d has been received. Thank you for shopping with us!\n\nWarm regards,\nVishal Store Billing Dept",
+    "timestamp": "2026-07-18T19:07:44.581Z"
+  },
+  {
+    "id": "w7io8ud86",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Your request to deposit INR 100.00 is pending admin approval.",
+    "timestamp": "2026-07-18T19:22:03.038Z"
+  },
+  {
+    "id": "rzpo39my5",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Your wallet deposit of INR 100.00 has been REJECTED. Please contact Vishal Store support.",
+    "timestamp": "2026-07-18T19:35:41.497Z"
+  },
+  {
+    "id": "ho95w97xw",
+    "type": "email",
+    "recipient": "70332911@gmail.com",
+    "subject": "Welcome to Vishal Store!",
+    "message": "Hi Rahul,\n\nThank you for registering your shop \"9973454427\" with us. Your account KYC is pending verification.\n\nWarm regards,\nVishal Store Team",
+    "timestamp": "2026-07-22T17:42:15.950Z"
+  },
+  {
+    "id": "3nwr8ngoc",
+    "type": "sms",
+    "recipient": "9973454427",
+    "message": "Welcome to Vishal Store! Shop 9973454427 registered successfully. Sourcing will be active once admin verifies your profile.",
+    "timestamp": "2026-07-22T17:42:15.954Z"
+  },
+  {
+    "id": "gt76uctc2",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Order CONFIRMED! Order ID: 9m83fz3d1. Total Amount: INR 3493.00. Payment received.",
+    "timestamp": "2026-07-22T17:54:57.322Z"
+  },
+  {
+    "id": "7hzc84r2y",
+    "type": "whatsapp",
+    "recipient": "8210302932",
+    "message": "Greetings kumar,\n\nYour bulk order was placed successfully.\nOrder ID: 9m83fz3d1\nItems: 1\nTotal: INR 3493.00\nThank you for shopping with us!",
+    "timestamp": "2026-07-22T17:54:57.328Z"
+  },
+  {
+    "id": "4loe93e8i",
+    "type": "email",
+    "recipient": "sahvijay058@gmail.com",
+    "subject": "Order Confirmation #9m83fz3d1",
+    "message": "Hi kumar,\n\nYour order #9m83fz3d1 has been received. Thank you for shopping with us!\n\nWarm regards,\nVishal Store Billing Dept",
+    "timestamp": "2026-07-22T17:54:57.334Z"
+  },
+  {
+    "id": "8kijat5x2",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Your B2B order #662s17m6v has been marked as: CANCELLED.",
+    "timestamp": "2026-07-22T17:55:55.945Z"
+  },
+  {
+    "id": "iw2s76apr",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Your B2B order #a04aijh98 has been marked as: CANCELLED.",
+    "timestamp": "2026-07-22T17:55:57.868Z"
+  },
+  {
+    "id": "rlc7z13fl",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Your B2B order #jykqfwjra has been marked as: CANCELLED.",
+    "timestamp": "2026-07-22T17:55:59.924Z"
+  },
+  {
+    "id": "wey036gzp",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Your B2B order #1py2bitmh has been marked as: CANCELLED.",
+    "timestamp": "2026-07-22T17:56:02.175Z"
+  },
+  {
+    "id": "h2pi6508g",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Your B2B order #fojybfj2d has been marked as: CANCELLED.",
+    "timestamp": "2026-07-22T17:56:05.606Z"
+  },
+  {
+    "id": "aq1kxhicb",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Your B2B order #9m83fz3d1 has been marked as: CANCELLED.",
+    "timestamp": "2026-07-22T17:56:07.683Z"
+  },
+  {
+    "id": "ok5yg462i",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Refund of INR 499.00 for order #fojybfj2d has been credited to your B2B wallet.",
+    "timestamp": "2026-07-22T17:56:12.386Z"
+  },
+  {
+    "id": "41ej4dnkh",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Order CONFIRMED! Order ID: rfcsdeumg. Total Amount: INR 300.00. Payment received.",
+    "timestamp": "2026-07-22T18:03:51.353Z"
+  },
+  {
+    "id": "ipuz3cokq",
+    "type": "whatsapp",
+    "recipient": "8210302932",
+    "message": "Greetings kumar,\n\nYour bulk order was placed successfully.\nOrder ID: rfcsdeumg\nItems: 1\nTotal: INR 300.00\nThank you for shopping with us!",
+    "timestamp": "2026-07-22T18:03:51.357Z"
+  },
+  {
+    "id": "68kxti5ie",
+    "type": "email",
+    "recipient": "sahvijay058@gmail.com",
+    "subject": "Order Confirmation #rfcsdeumg",
+    "message": "Hi kumar,\n\nYour order #rfcsdeumg has been received. Thank you for shopping with us!\n\nWarm regards,\nVishal Store Billing Dept",
+    "timestamp": "2026-07-22T18:03:51.361Z"
+  },
+  {
+    "id": "11jbx9vnp",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Order CONFIRMED! Order ID: swyf389a4. Total Amount: INR 6000.00. Payment received.",
+    "timestamp": "2026-07-22T18:04:20.953Z"
+  },
+  {
+    "id": "8oweebx06",
+    "type": "whatsapp",
+    "recipient": "8210302932",
+    "message": "Greetings kumar,\n\nYour bulk order was placed successfully.\nOrder ID: swyf389a4\nItems: 1\nTotal: INR 6000.00\nThank you for shopping with us!",
+    "timestamp": "2026-07-22T18:04:20.958Z"
+  },
+  {
+    "id": "j4p0mhdnc",
+    "type": "email",
+    "recipient": "sahvijay058@gmail.com",
+    "subject": "Order Confirmation #swyf389a4",
+    "message": "Hi kumar,\n\nYour order #swyf389a4 has been received. Thank you for shopping with us!\n\nWarm regards,\nVishal Store Billing Dept",
+    "timestamp": "2026-07-22T18:04:20.962Z"
+  },
+  {
+    "id": "50085hkjf",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Your B2B order #rfcsdeumg has been marked as: CANCELLED.",
+    "timestamp": "2026-07-22T18:04:32.676Z"
+  },
+  {
+    "id": "26iekj5ox",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Your B2B order #swyf389a4 has been marked as: ACCEPTED.",
+    "timestamp": "2026-07-22T18:04:53.800Z"
+  },
+  {
+    "id": "xpqv71h77",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Your B2B order #swyf389a4 has been marked as: DISPATCHED.",
+    "timestamp": "2026-07-22T18:04:59.250Z"
+  },
+  {
+    "id": "xeivzpwtv",
+    "type": "sms",
+    "recipient": "8210302932",
+    "message": "Your B2B order #swyf389a4 has been marked as: DELIVERED.",
+    "timestamp": "2026-07-22T18:05:02.158Z"
+  }
+]

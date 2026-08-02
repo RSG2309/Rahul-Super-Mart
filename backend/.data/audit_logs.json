@@ -1,0 +1,2082 @@
+[
+  {
+    "userId": "1lcpp6pqb",
+    "userEmail": "sahvijay056@gmail.com",
+    "userRole": "retailer",
+    "action": "REGISTER",
+    "details": "Retailer registered for Rahul (GST: N/A)",
+    "id": "slxqhh3sh",
+    "createdAt": "2026-07-12T18:50:17.186Z",
+    "updatedAt": "2026-07-12T18:50:17.186Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "REGISTER",
+    "details": "Retailer registered for Rahul (GST: N/A)",
+    "id": "ry5hch1lw",
+    "createdAt": "2026-07-12T18:50:59.514Z",
+    "updatedAt": "2026-07-12T18:50:59.514Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "27n5et5h2",
+    "createdAt": "2026-07-12T18:51:05.111Z",
+    "updatedAt": "2026-07-12T18:51:05.111Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "KYC_SUBMIT",
+    "details": "Retailer resubmitted KYC: Rahul",
+    "id": "rz0ldoe3l",
+    "createdAt": "2026-07-12T18:52:09.816Z",
+    "updatedAt": "2026-07-12T18:52:09.816Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "odfp7ecos",
+    "createdAt": "2026-07-12T19:12:32.962Z",
+    "updatedAt": "2026-07-12T19:12:32.962Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "bv0714gkq",
+    "createdAt": "2026-07-12T19:25:58.555Z",
+    "updatedAt": "2026-07-12T19:25:58.555Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "sweni05fn",
+    "createdAt": "2026-07-12T19:26:58.854Z",
+    "updatedAt": "2026-07-12T19:26:58.854Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_UPDATE",
+    "details": "Updated product Premium Basmati Rice (10kg) (SKU: RICE-BAS-001)",
+    "id": "hgp0k6syz",
+    "createdAt": "2026-07-12T19:29:28.823Z",
+    "updatedAt": "2026-07-12T19:29:28.823Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "7danhtmu6",
+    "createdAt": "2026-07-12T19:29:40.428Z",
+    "updatedAt": "2026-07-12T19:29:40.428Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "kvbv0f23i",
+    "createdAt": "2026-07-12T19:30:09.120Z",
+    "updatedAt": "2026-07-12T19:30:09.120Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "dqjiw5xo7",
+    "createdAt": "2026-07-12T19:33:16.547Z",
+    "updatedAt": "2026-07-12T19:33:16.547Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "5lhlyxlqd",
+    "createdAt": "2026-07-13T16:54:39.981Z",
+    "updatedAt": "2026-07-13T16:54:39.981Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "az0hpppna",
+    "createdAt": "2026-07-13T16:56:56.226Z",
+    "updatedAt": "2026-07-13T16:56:56.226Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_UPDATE",
+    "details": "Updated product Premium Basmati Rice (10kg) (SKU: RICE-BAS-001)",
+    "id": "uwkct2nii",
+    "createdAt": "2026-07-13T17:01:07.549Z",
+    "updatedAt": "2026-07-13T17:01:07.549Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "728fcop7c",
+    "createdAt": "2026-07-13T17:01:17.781Z",
+    "updatedAt": "2026-07-13T17:01:17.781Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "fvz26ubmt",
+    "createdAt": "2026-07-13T17:02:15.002Z",
+    "updatedAt": "2026-07-13T17:02:15.002Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "l99ms3hke",
+    "createdAt": "2026-07-13T17:03:01.598Z",
+    "updatedAt": "2026-07-13T17:03:01.598Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "u0rr16tv7",
+    "createdAt": "2026-07-13T17:03:14.743Z",
+    "updatedAt": "2026-07-13T17:03:14.743Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "4sghfffr9",
+    "createdAt": "2026-07-13T17:07:34.761Z",
+    "updatedAt": "2026-07-13T17:07:34.761Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "uck4jyzwt",
+    "createdAt": "2026-07-13T17:07:52.324Z",
+    "updatedAt": "2026-07-13T17:07:52.324Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "KYC_VERIFIED",
+    "details": "KYC verified for retailer business Pooja Supermarket",
+    "id": "zw3v49oaq",
+    "createdAt": "2026-07-13T17:07:59.035Z",
+    "updatedAt": "2026-07-13T17:07:59.035Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "KYC_VERIFIED",
+    "details": "KYC verified for retailer business Rahul",
+    "id": "pl74kx5qu",
+    "createdAt": "2026-07-13T17:08:00.394Z",
+    "updatedAt": "2026-07-13T17:08:00.394Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "KYC_VERIFIED",
+    "details": "KYC verified for retailer business Rahul",
+    "id": "i9tbs1iwm",
+    "createdAt": "2026-07-13T17:08:03.555Z",
+    "updatedAt": "2026-07-13T17:08:03.555Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "jcv8sizxk",
+    "createdAt": "2026-07-13T17:08:11.976Z",
+    "updatedAt": "2026-07-13T17:08:11.976Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "WALLET_PAYMENT",
+    "details": "Paid ₹1,000 for Order via wallet ledger.",
+    "id": "mc3sm6hkw",
+    "createdAt": "2026-07-13T17:08:32.376Z",
+    "updatedAt": "2026-07-13T17:08:32.376Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "ORDER_PLACE",
+    "details": "Placed order ID 0hiv4iqnb for INR 1000.00 via wallet",
+    "id": "th1wt8l4e",
+    "createdAt": "2026-07-13T17:08:32.472Z",
+    "updatedAt": "2026-07-13T17:08:32.472Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "pov6u462t",
+    "createdAt": "2026-07-13T17:10:01.245Z",
+    "updatedAt": "2026-07-13T17:10:01.245Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_STATUS_UPDATE",
+    "details": "Updated order 0hiv4iqnb status to undefined",
+    "id": "izncsc2np",
+    "createdAt": "2026-07-13T17:14:32.276Z",
+    "updatedAt": "2026-07-13T17:14:32.276Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_STATUS_UPDATE",
+    "details": "Updated order 0hiv4iqnb status to undefined",
+    "id": "ou9gsnmm1",
+    "createdAt": "2026-07-13T17:14:36.791Z",
+    "updatedAt": "2026-07-13T17:14:36.791Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_STATUS_UPDATE",
+    "details": "Updated order 0hiv4iqnb status to undefined",
+    "id": "x8vqac87n",
+    "createdAt": "2026-07-13T17:14:39.012Z",
+    "updatedAt": "2026-07-13T17:14:39.012Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_STATUS_UPDATE",
+    "details": "Updated order 0hiv4iqnb status to undefined",
+    "id": "tkchaphjz",
+    "createdAt": "2026-07-13T17:14:41.096Z",
+    "updatedAt": "2026-07-13T17:14:41.096Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "ftptv33j8",
+    "createdAt": "2026-07-13T17:16:30.902Z",
+    "updatedAt": "2026-07-13T17:16:30.902Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "mh39w3wjb",
+    "createdAt": "2026-07-13T17:39:09.527Z",
+    "updatedAt": "2026-07-13T17:39:09.527Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "uwk0z6jm1",
+    "createdAt": "2026-07-13T17:44:49.046Z",
+    "updatedAt": "2026-07-13T17:44:49.046Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "l2eny6m0s",
+    "createdAt": "2026-07-13T17:45:37.154Z",
+    "updatedAt": "2026-07-13T17:45:37.154Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "b22dnxwmp",
+    "createdAt": "2026-07-13T17:48:08.187Z",
+    "updatedAt": "2026-07-13T17:48:08.187Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "rqevla1l3",
+    "createdAt": "2026-07-13T17:56:03.506Z",
+    "updatedAt": "2026-07-13T17:56:03.506Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "cw1vl820l",
+    "createdAt": "2026-07-13T17:57:11.573Z",
+    "updatedAt": "2026-07-13T17:57:11.573Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "xopyv3swj",
+    "createdAt": "2026-07-13T17:57:45.313Z",
+    "updatedAt": "2026-07-13T17:57:45.313Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "ea1keps9z",
+    "createdAt": "2026-07-14T17:49:48.488Z",
+    "updatedAt": "2026-07-14T17:49:48.488Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "xnqjvgndj",
+    "createdAt": "2026-07-14T17:55:18.357Z",
+    "updatedAt": "2026-07-14T17:55:18.357Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "2r83uo41w",
+    "createdAt": "2026-07-14T18:04:56.986Z",
+    "updatedAt": "2026-07-14T18:04:56.986Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "KYC_VERIFIED",
+    "details": "KYC verified for retailer business Rahul",
+    "id": "s9meq9nda",
+    "createdAt": "2026-07-14T18:05:02.565Z",
+    "updatedAt": "2026-07-14T18:05:02.565Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_STATUS_UPDATE",
+    "details": "Updated order 0hiv4iqnb status to undefined",
+    "id": "hbjbc37ji",
+    "createdAt": "2026-07-14T18:21:19.455Z",
+    "updatedAt": "2026-07-14T18:21:19.455Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "KYC_REJECTED",
+    "details": "KYC rejected for retailer business Pooja Supermarket",
+    "id": "mhpivle8j",
+    "createdAt": "2026-07-14T18:28:32.591Z",
+    "updatedAt": "2026-07-14T18:28:32.591Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_REFUND",
+    "details": "Refunded order ID 0hiv4iqnb of value INR 1000.00",
+    "id": "zc6elyto1",
+    "createdAt": "2026-07-14T18:35:04.904Z",
+    "updatedAt": "2026-07-14T18:35:04.904Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "n38ik1zpr",
+    "createdAt": "2026-07-14T18:35:15.529Z",
+    "updatedAt": "2026-07-14T18:35:15.529Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "440ntbihr",
+    "createdAt": "2026-07-14T18:35:27.127Z",
+    "updatedAt": "2026-07-14T18:35:27.127Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "dyyfr8g12",
+    "createdAt": "2026-07-14T18:37:53.798Z",
+    "updatedAt": "2026-07-14T18:37:53.798Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "312qq2dz9",
+    "createdAt": "2026-07-14T18:49:44.944Z",
+    "updatedAt": "2026-07-14T18:49:44.944Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "qavb0z1ei",
+    "createdAt": "2026-07-14T18:51:06.367Z",
+    "updatedAt": "2026-07-14T18:51:06.367Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "ORDER_PLACE",
+    "details": "Placed order ID j5pgyx7v3 for INR 21000.00 via online",
+    "id": "u48w0t3nc",
+    "createdAt": "2026-07-14T18:52:30.388Z",
+    "updatedAt": "2026-07-14T18:52:30.388Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "7g5iiof8p",
+    "createdAt": "2026-07-14T18:52:53.004Z",
+    "updatedAt": "2026-07-14T18:52:53.004Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_STATUS_UPDATE",
+    "details": "Updated order j5pgyx7v3 status to undefined",
+    "id": "gmgahovr9",
+    "createdAt": "2026-07-14T18:53:12.679Z",
+    "updatedAt": "2026-07-14T18:53:12.679Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_STATUS_UPDATE",
+    "details": "Updated order j5pgyx7v3 status to undefined",
+    "id": "4hhmq648f",
+    "createdAt": "2026-07-14T18:53:15.190Z",
+    "updatedAt": "2026-07-14T18:53:15.190Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_STATUS_UPDATE",
+    "details": "Updated order j5pgyx7v3 status to undefined",
+    "id": "li8qx66zd",
+    "createdAt": "2026-07-14T18:54:35.094Z",
+    "updatedAt": "2026-07-14T18:54:35.094Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_REFUND",
+    "details": "Refunded order ID j5pgyx7v3 of value INR 21000.00",
+    "id": "irjwpw2ui",
+    "createdAt": "2026-07-14T18:54:36.835Z",
+    "updatedAt": "2026-07-14T18:54:36.835Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "5mvqv4qq6",
+    "createdAt": "2026-07-14T18:54:46.700Z",
+    "updatedAt": "2026-07-14T18:54:46.700Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "g1vdgwwg4",
+    "createdAt": "2026-07-14T18:54:58.272Z",
+    "updatedAt": "2026-07-14T18:54:58.272Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "i7dmurc5v",
+    "createdAt": "2026-07-14T18:55:13.036Z",
+    "updatedAt": "2026-07-14T18:55:13.036Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "ORDER_PLACE",
+    "details": "Placed order ID 8e0msiees for INR 3120.00 via cod",
+    "id": "fwglscmfe",
+    "createdAt": "2026-07-14T18:55:28.344Z",
+    "updatedAt": "2026-07-14T18:55:28.344Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "5f2smdzm2",
+    "createdAt": "2026-07-14T18:57:04.868Z",
+    "updatedAt": "2026-07-14T18:57:04.868Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_STATUS_UPDATE",
+    "details": "Updated order 8e0msiees status to undefined",
+    "id": "qg0rzbett",
+    "createdAt": "2026-07-14T19:03:27.475Z",
+    "updatedAt": "2026-07-14T19:03:27.475Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "0us2wx086",
+    "createdAt": "2026-07-14T19:03:57.713Z",
+    "updatedAt": "2026-07-14T19:03:57.713Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_STATUS_UPDATE",
+    "details": "Updated order 8e0msiees status to undefined",
+    "id": "d34q1o34b",
+    "createdAt": "2026-07-14T19:07:26.261Z",
+    "updatedAt": "2026-07-14T19:07:26.261Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_STATUS_UPDATE",
+    "details": "Updated order 8e0msiees status to undefined",
+    "id": "xvur12o2f",
+    "createdAt": "2026-07-14T19:07:31.055Z",
+    "updatedAt": "2026-07-14T19:07:31.055Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "2yg7y2ddr",
+    "createdAt": "2026-07-14T19:24:50.958Z",
+    "updatedAt": "2026-07-14T19:24:50.958Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_STATUS_UPDATE",
+    "details": "Updated order 8e0msiees status to accepted",
+    "id": "3ky39sbzf",
+    "createdAt": "2026-07-14T19:28:22.736Z",
+    "updatedAt": "2026-07-14T19:28:22.736Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "folumt74o",
+    "createdAt": "2026-07-14T19:28:32.624Z",
+    "updatedAt": "2026-07-14T19:28:32.624Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "2tjhydy4z",
+    "createdAt": "2026-07-14T19:28:53.759Z",
+    "updatedAt": "2026-07-14T19:28:53.759Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_STATUS_UPDATE",
+    "details": "Updated order 8e0msiees status to dispatched",
+    "id": "za2vt9z44",
+    "createdAt": "2026-07-14T19:28:58.502Z",
+    "updatedAt": "2026-07-14T19:28:58.502Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "9kjajvwaw",
+    "createdAt": "2026-07-14T19:29:25.079Z",
+    "updatedAt": "2026-07-14T19:29:25.079Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "x1pgdkn22",
+    "createdAt": "2026-07-14T19:31:29.960Z",
+    "updatedAt": "2026-07-14T19:31:29.960Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "yte1duumm",
+    "createdAt": "2026-07-14T19:31:42.985Z",
+    "updatedAt": "2026-07-14T19:31:42.985Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "h6dzsoeav",
+    "createdAt": "2026-07-14T19:32:15.727Z",
+    "updatedAt": "2026-07-14T19:32:15.727Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "fxybd08v8",
+    "createdAt": "2026-07-14T19:32:31.931Z",
+    "updatedAt": "2026-07-14T19:32:31.931Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_DELIVERY_OTP_VERIFY",
+    "details": "OTP Verified for COD order 8e0msiees. Status marked Delivered.",
+    "id": "djurjfmsn",
+    "createdAt": "2026-07-14T19:34:20.290Z",
+    "updatedAt": "2026-07-14T19:34:20.290Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "jd3thsmjh",
+    "createdAt": "2026-07-14T19:34:35.963Z",
+    "updatedAt": "2026-07-14T19:34:35.963Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "aq64064af",
+    "createdAt": "2026-07-14T19:46:20.478Z",
+    "updatedAt": "2026-07-14T19:46:20.478Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "v9lisq0ii",
+    "createdAt": "2026-07-16T17:07:25.210Z",
+    "updatedAt": "2026-07-16T17:07:25.210Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "l7ohbmaiq",
+    "createdAt": "2026-07-16T17:09:18.710Z",
+    "updatedAt": "2026-07-16T17:09:18.710Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "WALLET_PAYMENT",
+    "details": "Paid ₹4,200 for Order via wallet ledger.",
+    "id": "k5awr2sf2",
+    "createdAt": "2026-07-16T17:09:36.693Z",
+    "updatedAt": "2026-07-16T17:09:36.693Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "ORDER_PLACE",
+    "details": "Placed order ID xvhtrumdp for INR 4200.00 via wallet",
+    "id": "1rxjz5nes",
+    "createdAt": "2026-07-16T17:09:36.713Z",
+    "updatedAt": "2026-07-16T17:09:36.713Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "upz0jnk9s",
+    "createdAt": "2026-07-16T17:09:44.132Z",
+    "updatedAt": "2026-07-16T17:09:44.132Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_STATUS_UPDATE",
+    "details": "Updated order xvhtrumdp status to accepted",
+    "id": "yj5kkyl6o",
+    "createdAt": "2026-07-16T17:09:51.533Z",
+    "updatedAt": "2026-07-16T17:09:51.533Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_STATUS_UPDATE",
+    "details": "Updated order xvhtrumdp status to dispatched",
+    "id": "i3lqdd304",
+    "createdAt": "2026-07-16T17:09:54.611Z",
+    "updatedAt": "2026-07-16T17:09:54.611Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_STATUS_UPDATE",
+    "details": "Updated order xvhtrumdp status to delivered",
+    "id": "je6a9migp",
+    "createdAt": "2026-07-16T17:09:57.159Z",
+    "updatedAt": "2026-07-16T17:09:57.159Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_UPDATE",
+    "details": "Updated product Premium Basmati Rice (10kg) (SKU: RICE-BAS-001)",
+    "id": "zz2l684og",
+    "createdAt": "2026-07-16T17:10:25.324Z",
+    "updatedAt": "2026-07-16T17:10:25.324Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_CREATE",
+    "details": "Created product patanjali (SKU: soap1)",
+    "id": "3b4epd6ap",
+    "createdAt": "2026-07-16T17:19:31.302Z",
+    "updatedAt": "2026-07-16T17:19:31.302Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "kugrjcvbq",
+    "createdAt": "2026-07-16T17:19:39.193Z",
+    "updatedAt": "2026-07-16T17:19:39.193Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "wi7iltfdw",
+    "createdAt": "2026-07-16T17:23:58.427Z",
+    "updatedAt": "2026-07-16T17:23:58.427Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "mqwpl4e4a",
+    "createdAt": "2026-07-16T17:58:10.667Z",
+    "updatedAt": "2026-07-16T17:58:10.667Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "dh2fuuqwh",
+    "createdAt": "2026-07-16T18:34:02.151Z",
+    "updatedAt": "2026-07-16T18:34:02.151Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "y1cr57e7h",
+    "createdAt": "2026-07-16T18:37:58.746Z",
+    "updatedAt": "2026-07-16T18:37:58.746Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ADMIN_WALLET_ADJUST",
+    "details": "Admin updated wallet balance of Rahul to ₹19,800. (Adjustment: ₹2000, Reason: error)",
+    "id": "vijh0tncy",
+    "createdAt": "2026-07-16T18:43:05.253Z",
+    "updatedAt": "2026-07-16T18:43:05.253Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ADMIN_WALLET_ADJUST",
+    "details": "Admin updated wallet balance of Rahul to ₹2,000. (Adjustment: ₹1000, Reason: WITHDRAW)",
+    "id": "yzskybvm1",
+    "createdAt": "2026-07-16T18:43:52.197Z",
+    "updatedAt": "2026-07-16T18:43:52.197Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ADMIN_WALLET_ADJUST",
+    "details": "Admin updated wallet balance of Rahul to ₹9,800. (Adjustment: ₹-10000, Reason: others)",
+    "id": "7us1s6x2u",
+    "createdAt": "2026-07-16T18:44:20.097Z",
+    "updatedAt": "2026-07-16T18:44:20.097Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "hr2motvb8",
+    "createdAt": "2026-07-16T18:44:39.871Z",
+    "updatedAt": "2026-07-16T18:44:39.871Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "jyn4ta9sw",
+    "createdAt": "2026-07-16T19:02:56.228Z",
+    "updatedAt": "2026-07-16T19:02:56.228Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_UPDATE",
+    "details": "Updated product Organic Kachi Ghani Mustard Oil (5L) (SKU: OIL-MUST-002)",
+    "id": "4wmgqmqpa",
+    "createdAt": "2026-07-16T19:03:26.137Z",
+    "updatedAt": "2026-07-16T19:03:26.137Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_UPDATE",
+    "details": "Updated product patanjali (SKU: soap1)",
+    "id": "vvtpths8q",
+    "createdAt": "2026-07-16T19:08:06.088Z",
+    "updatedAt": "2026-07-16T19:08:06.088Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "m44b06qzd",
+    "createdAt": "2026-07-16T19:26:45.867Z",
+    "updatedAt": "2026-07-16T19:26:45.867Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_UPDATE",
+    "details": "Updated product Premium Basmati Rice (10kg) (SKU: RICE-BAS-001)",
+    "id": "yvtf6487g",
+    "createdAt": "2026-07-16T19:27:03.247Z",
+    "updatedAt": "2026-07-16T19:27:03.247Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_UPDATE",
+    "details": "Updated product Premium Basmati Rice (10kg) (SKU: RICE-BAS-001)",
+    "id": "jvoox3wq1",
+    "createdAt": "2026-07-16T19:27:38.707Z",
+    "updatedAt": "2026-07-16T19:27:38.707Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_UPDATE",
+    "details": "Updated product patanjali (SKU: soap1)",
+    "id": "v7k6vexzn",
+    "createdAt": "2026-07-16T19:27:47.418Z",
+    "updatedAt": "2026-07-16T19:27:47.418Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_UPDATE",
+    "details": "Updated product patanjali (SKU: soap1)",
+    "id": "0ycxhophk",
+    "createdAt": "2026-07-16T19:28:01.954Z",
+    "updatedAt": "2026-07-16T19:28:01.954Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "tmrkq9iv6",
+    "createdAt": "2026-07-16T19:28:20.459Z",
+    "updatedAt": "2026-07-16T19:28:20.459Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "6t6xdvfls",
+    "createdAt": "2026-07-16T19:31:55.246Z",
+    "updatedAt": "2026-07-16T19:31:55.246Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_UPDATE",
+    "details": "Updated product patanjali (SKU: soap1)",
+    "id": "ctubuok5g",
+    "createdAt": "2026-07-16T19:32:05.009Z",
+    "updatedAt": "2026-07-16T19:32:05.009Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_UPDATE",
+    "details": "Updated product patanjali (SKU: soap1)",
+    "id": "5yw5d6io9",
+    "createdAt": "2026-07-16T19:32:16.905Z",
+    "updatedAt": "2026-07-16T19:32:16.905Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_UPDATE",
+    "details": "Updated product patanjali (SKU: soap1)",
+    "id": "sv8pdlr5r",
+    "createdAt": "2026-07-17T18:05:51.719Z",
+    "updatedAt": "2026-07-17T18:05:51.719Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_UPDATE",
+    "details": "Updated product Fast Smart Charging Adaptor (Pack of 10) (SKU: ELEC-ADP-006)",
+    "id": "idz34ryvf",
+    "createdAt": "2026-07-17T18:05:55.394Z",
+    "updatedAt": "2026-07-17T18:05:55.394Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_UPDATE",
+    "details": "Updated product Fast Smart Charging Adaptor (Pack of 10) (SKU: ELEC-ADP-006)",
+    "id": "g07fi7r97",
+    "createdAt": "2026-07-17T18:05:59.359Z",
+    "updatedAt": "2026-07-17T18:05:59.359Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_DELETE",
+    "details": "Deleted product ID: 29mgkg1wz",
+    "id": "4tnazlkbr",
+    "createdAt": "2026-07-17T18:06:09.958Z",
+    "updatedAt": "2026-07-17T18:06:09.958Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_CREATE",
+    "details": "Created product Dove Anti Hairfall Shampoo 1L (SKU: Shampoo)",
+    "id": "m7i4erx46",
+    "createdAt": "2026-07-17T18:07:17.052Z",
+    "updatedAt": "2026-07-17T18:07:17.052Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_DELETE",
+    "details": "Deleted product ID: hbvqrzkg0",
+    "id": "aw686n3cb",
+    "createdAt": "2026-07-17T18:15:44.713Z",
+    "updatedAt": "2026-07-17T18:15:44.713Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_CREATE",
+    "details": "Created product Dove Anti Hairfall Shampoo 1L (SKU: Shampoo)",
+    "id": "5wlop7dj8",
+    "createdAt": "2026-07-17T18:15:46.814Z",
+    "updatedAt": "2026-07-17T18:15:46.814Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "7u6nn2ec2",
+    "createdAt": "2026-07-17T18:22:31.980Z",
+    "updatedAt": "2026-07-17T18:22:31.980Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_DELETE",
+    "details": "Deleted product ID: 1ossacbrw",
+    "id": "gzhdaun7l",
+    "createdAt": "2026-07-17T18:22:45.541Z",
+    "updatedAt": "2026-07-17T18:22:45.541Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_DELETE",
+    "details": "Deleted product ID: 92d6xglhx",
+    "id": "53l2u3db9",
+    "createdAt": "2026-07-17T18:22:53.414Z",
+    "updatedAt": "2026-07-17T18:22:53.414Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_DELETE",
+    "details": "Deleted product ID: 3cit80hrn",
+    "id": "m8qjm1wqg",
+    "createdAt": "2026-07-17T18:22:57.298Z",
+    "updatedAt": "2026-07-17T18:22:57.298Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_CREATE",
+    "details": "Created product Bournvita Chocolate Nutrition Drink, 2 kg (SKU: NA)",
+    "id": "ris0ctj49",
+    "createdAt": "2026-07-17T18:27:24.465Z",
+    "updatedAt": "2026-07-17T18:27:24.465Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_DELETE",
+    "details": "Deleted product ID: ciwcjyh9b",
+    "id": "dwn0ounmc",
+    "createdAt": "2026-07-17T18:27:40.225Z",
+    "updatedAt": "2026-07-17T18:27:40.225Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "9e96mm6n9",
+    "createdAt": "2026-07-17T19:05:00.761Z",
+    "updatedAt": "2026-07-17T19:05:00.761Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "vhyay2ke9",
+    "createdAt": "2026-07-17T19:09:29.425Z",
+    "updatedAt": "2026-07-17T19:09:29.425Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "agfec91op",
+    "createdAt": "2026-07-18T17:26:26.551Z",
+    "updatedAt": "2026-07-18T17:26:26.551Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "goohbpzg9",
+    "createdAt": "2026-07-18T17:30:29.969Z",
+    "updatedAt": "2026-07-18T17:30:29.969Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "WALLET_PAYMENT",
+    "details": "Paid ₹200 for Order via wallet ledger.",
+    "id": "36x4iggfl",
+    "createdAt": "2026-07-18T17:44:55.670Z",
+    "updatedAt": "2026-07-18T17:44:55.670Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "ORDER_PLACE",
+    "details": "Placed order ID pc0ok4fo7 for INR 200.00 via wallet",
+    "id": "bgg10ouqg",
+    "createdAt": "2026-07-18T17:44:55.691Z",
+    "updatedAt": "2026-07-18T17:44:55.691Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "f0h5cffxt",
+    "createdAt": "2026-07-18T17:45:36.325Z",
+    "updatedAt": "2026-07-18T17:45:36.325Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_STATUS_UPDATE",
+    "details": "Updated order pc0ok4fo7 status to cancelled",
+    "id": "qaituzd5j",
+    "createdAt": "2026-07-18T17:45:48.319Z",
+    "updatedAt": "2026-07-18T17:45:48.319Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_REFUND",
+    "details": "Refunded order ID pc0ok4fo7 of value INR 200.00",
+    "id": "mejmbey3o",
+    "createdAt": "2026-07-18T17:45:50.618Z",
+    "updatedAt": "2026-07-18T17:45:50.618Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "0kphq52mu",
+    "createdAt": "2026-07-18T17:46:00.826Z",
+    "updatedAt": "2026-07-18T17:46:00.826Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "j9gb976uw",
+    "createdAt": "2026-07-18T17:53:16.172Z",
+    "updatedAt": "2026-07-18T17:53:16.172Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "65530lyog",
+    "createdAt": "2026-07-18T18:12:18.733Z",
+    "updatedAt": "2026-07-18T18:12:18.733Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ADMIN_WALLET_ADJUST",
+    "details": "Admin updated wallet to ₹9,800 (adj: ₹0) and promo wallet to ₹100 (adj: ₹100) for retailer Rahul. Reason: GIFT",
+    "id": "j6beeb7c0",
+    "createdAt": "2026-07-18T18:12:57.056Z",
+    "updatedAt": "2026-07-18T18:12:57.056Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "n0vrg5y3q",
+    "createdAt": "2026-07-18T18:13:05.386Z",
+    "updatedAt": "2026-07-18T18:13:05.386Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "5ay4bp71r",
+    "createdAt": "2026-07-18T18:13:50.499Z",
+    "updatedAt": "2026-07-18T18:13:50.499Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "joj5ldxlg",
+    "createdAt": "2026-07-18T18:17:57.985Z",
+    "updatedAt": "2026-07-18T18:17:57.985Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "5i0gvkx1h",
+    "createdAt": "2026-07-18T18:18:41.719Z",
+    "updatedAt": "2026-07-18T18:18:41.719Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "PROMO_WALLET_PAYMENT",
+    "details": "Used ₹100 Promo Wallet deduction for Order.",
+    "id": "vdulwq70x",
+    "createdAt": "2026-07-18T18:56:48.679Z",
+    "updatedAt": "2026-07-18T18:56:48.679Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "ORDER_PLACE",
+    "details": "Placed order ID 662s17m6v for INR 8400.00 via online",
+    "id": "bl3kjymxm",
+    "createdAt": "2026-07-18T18:56:48.715Z",
+    "updatedAt": "2026-07-18T18:56:48.715Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "ORDER_PLACE",
+    "details": "Placed order ID a04aijh98 for INR 200.00 via online",
+    "id": "9aitas8qm",
+    "createdAt": "2026-07-18T18:59:02.251Z",
+    "updatedAt": "2026-07-18T18:59:02.251Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "ORDER_PLACE",
+    "details": "Placed order ID jykqfwjra for INR 200.00 via online",
+    "id": "oh6l1n1s0",
+    "createdAt": "2026-07-18T18:59:02.295Z",
+    "updatedAt": "2026-07-18T18:59:02.295Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "9q51zzsv1",
+    "createdAt": "2026-07-18T19:03:51.420Z",
+    "updatedAt": "2026-07-18T19:03:51.420Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "ORDER_PLACE",
+    "details": "Placed order ID 1py2bitmh for INR 499.00 via online",
+    "id": "vtsk49jdw",
+    "createdAt": "2026-07-18T19:04:06.763Z",
+    "updatedAt": "2026-07-18T19:04:06.763Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "ORDER_PLACE",
+    "details": "Placed order ID fojybfj2d for INR 499.00 via online",
+    "id": "k67st714m",
+    "createdAt": "2026-07-18T19:07:44.585Z",
+    "updatedAt": "2026-07-18T19:07:44.585Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "n903o7q9u",
+    "createdAt": "2026-07-18T19:19:56.283Z",
+    "updatedAt": "2026-07-18T19:19:56.283Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "WALLET_FUND_REQUEST",
+    "details": "Created a pending request to load ₹100 to wallet via UPI QR.",
+    "id": "47y4bhiw0",
+    "createdAt": "2026-07-18T19:22:03.033Z",
+    "updatedAt": "2026-07-18T19:22:03.033Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "c4bkbgnpu",
+    "createdAt": "2026-07-18T19:22:19.648Z",
+    "updatedAt": "2026-07-18T19:22:19.648Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "BLOCK_RETAILER",
+    "details": "Blocked retailer ID mlf438hyb (Email: retailer@b2b.com).",
+    "id": "vlvl6qp10",
+    "createdAt": "2026-07-18T19:26:03.395Z",
+    "updatedAt": "2026-07-18T19:26:03.395Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "WALLET_FUND_REJECT",
+    "details": "Rejected ₹100 wallet credit request for retailer Rahul",
+    "id": "ss3nol7cs",
+    "createdAt": "2026-07-18T19:35:41.531Z",
+    "updatedAt": "2026-07-18T19:35:41.531Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "d148e6aru",
+    "createdAt": "2026-07-18T19:38:26.396Z",
+    "updatedAt": "2026-07-18T19:38:26.396Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "wn60jx4ia",
+    "createdAt": "2026-07-22T17:41:29.129Z",
+    "updatedAt": "2026-07-22T17:41:29.129Z"
+  },
+  {
+    "userId": "c4sh1tps1",
+    "userEmail": "70332911@gmail.com",
+    "userRole": "retailer",
+    "action": "REGISTER",
+    "details": "Retailer registered with KYC pending for 9973454427",
+    "id": "h1gauut7y",
+    "createdAt": "2026-07-22T17:42:15.937Z",
+    "updatedAt": "2026-07-22T17:42:15.937Z"
+  },
+  {
+    "userId": "c4sh1tps1",
+    "userEmail": "70332911@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "j3xhjiubn",
+    "createdAt": "2026-07-22T17:42:20.189Z",
+    "updatedAt": "2026-07-22T17:42:20.189Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "u3tktshqd",
+    "createdAt": "2026-07-22T17:54:21.257Z",
+    "updatedAt": "2026-07-22T17:54:21.257Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "eiofsmwkq",
+    "createdAt": "2026-07-22T17:54:49.556Z",
+    "updatedAt": "2026-07-22T17:54:49.556Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "ORDER_PLACE",
+    "details": "Placed order ID 9m83fz3d1 for INR 3493.00 via online",
+    "id": "kra611k24",
+    "createdAt": "2026-07-22T17:54:57.338Z",
+    "updatedAt": "2026-07-22T17:54:57.338Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "3gl6g55ts",
+    "createdAt": "2026-07-22T17:55:17.545Z",
+    "updatedAt": "2026-07-22T17:55:17.545Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_STATUS_UPDATE",
+    "details": "Updated order 662s17m6v status to cancelled",
+    "id": "jbe3vj60o",
+    "createdAt": "2026-07-22T17:55:55.939Z",
+    "updatedAt": "2026-07-22T17:55:55.939Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_STATUS_UPDATE",
+    "details": "Updated order a04aijh98 status to cancelled",
+    "id": "7ekpymme4",
+    "createdAt": "2026-07-22T17:55:57.862Z",
+    "updatedAt": "2026-07-22T17:55:57.862Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_STATUS_UPDATE",
+    "details": "Updated order jykqfwjra status to cancelled",
+    "id": "n9mj776tx",
+    "createdAt": "2026-07-22T17:55:59.919Z",
+    "updatedAt": "2026-07-22T17:55:59.919Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_STATUS_UPDATE",
+    "details": "Updated order 1py2bitmh status to cancelled",
+    "id": "jnrzk7v43",
+    "createdAt": "2026-07-22T17:56:02.168Z",
+    "updatedAt": "2026-07-22T17:56:02.168Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_STATUS_UPDATE",
+    "details": "Updated order fojybfj2d status to cancelled",
+    "id": "pfa7grruv",
+    "createdAt": "2026-07-22T17:56:05.601Z",
+    "updatedAt": "2026-07-22T17:56:05.601Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_STATUS_UPDATE",
+    "details": "Updated order 9m83fz3d1 status to cancelled",
+    "id": "0mtdwp8ny",
+    "createdAt": "2026-07-22T17:56:07.679Z",
+    "updatedAt": "2026-07-22T17:56:07.679Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_REFUND",
+    "details": "Refunded order ID fojybfj2d of value INR 499.00",
+    "id": "yatpowfb0",
+    "createdAt": "2026-07-22T17:56:12.389Z",
+    "updatedAt": "2026-07-22T17:56:12.389Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "fmjmq770v",
+    "createdAt": "2026-07-22T18:03:05.933Z",
+    "updatedAt": "2026-07-22T18:03:05.933Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "gphfl84kd",
+    "createdAt": "2026-07-22T18:03:25.923Z",
+    "updatedAt": "2026-07-22T18:03:25.923Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "3oonyaosa",
+    "createdAt": "2026-07-22T18:03:38.278Z",
+    "updatedAt": "2026-07-22T18:03:38.278Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "WALLET_PAYMENT",
+    "details": "Paid ₹300 via B2B Wallet and ₹0 via Promo Wallet for Order.",
+    "id": "qtbgspyfm",
+    "createdAt": "2026-07-22T18:03:51.337Z",
+    "updatedAt": "2026-07-22T18:03:51.337Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "ORDER_PLACE",
+    "details": "Placed order ID rfcsdeumg for INR 300.00 via wallet",
+    "id": "2kntzqqdh",
+    "createdAt": "2026-07-22T18:03:51.364Z",
+    "updatedAt": "2026-07-22T18:03:51.364Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "WALLET_PAYMENT",
+    "details": "Paid ₹6,000 via B2B Wallet and ₹0 via Promo Wallet for Order.",
+    "id": "ff4sioxq6",
+    "createdAt": "2026-07-22T18:04:20.941Z",
+    "updatedAt": "2026-07-22T18:04:20.941Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "ORDER_PLACE",
+    "details": "Placed order ID swyf389a4 for INR 6000.00 via wallet",
+    "id": "psk2wg6vg",
+    "createdAt": "2026-07-22T18:04:20.965Z",
+    "updatedAt": "2026-07-22T18:04:20.965Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "vgeamruyq",
+    "createdAt": "2026-07-22T18:04:26.747Z",
+    "updatedAt": "2026-07-22T18:04:26.747Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_STATUS_UPDATE",
+    "details": "Updated order rfcsdeumg status to cancelled",
+    "id": "tydx98uiu",
+    "createdAt": "2026-07-22T18:04:32.672Z",
+    "updatedAt": "2026-07-22T18:04:32.672Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_STATUS_UPDATE",
+    "details": "Updated order swyf389a4 status to accepted",
+    "id": "5f55lx4x4",
+    "createdAt": "2026-07-22T18:04:53.795Z",
+    "updatedAt": "2026-07-22T18:04:53.795Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_STATUS_UPDATE",
+    "details": "Updated order swyf389a4 status to dispatched",
+    "id": "rlsm8rs6t",
+    "createdAt": "2026-07-22T18:04:59.246Z",
+    "updatedAt": "2026-07-22T18:04:59.246Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ORDER_STATUS_UPDATE",
+    "details": "Updated order swyf389a4 status to delivered",
+    "id": "4r16t86kk",
+    "createdAt": "2026-07-22T18:05:02.152Z",
+    "updatedAt": "2026-07-22T18:05:02.152Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "vcktonr10",
+    "createdAt": "2026-07-23T18:48:51.656Z",
+    "updatedAt": "2026-07-23T18:48:51.656Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "rat9eg5bn",
+    "createdAt": "2026-07-23T18:54:58.022Z",
+    "updatedAt": "2026-07-23T18:54:58.022Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "ffe0ilyvq",
+    "createdAt": "2026-07-23T18:55:11.069Z",
+    "updatedAt": "2026-07-23T18:55:11.069Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_UPDATE",
+    "details": "Updated product Herbal Neem Face Wash (Pack of 12) (SKU: FACE-NEEM-003)",
+    "id": "dqy5n3wks",
+    "createdAt": "2026-07-23T18:59:21.670Z",
+    "updatedAt": "2026-07-23T18:59:21.670Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_UPDATE",
+    "details": "Updated product Patanjali Soap Neem Pack of 5 (SKU: soap1)",
+    "id": "87xvmlgkf",
+    "createdAt": "2026-07-23T18:59:44.823Z",
+    "updatedAt": "2026-07-23T18:59:44.823Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_UPDATE",
+    "details": "Updated product Dove Anti Hairfall Shampoo 1L (SKU: Shampoo)",
+    "id": "brp5j44kr",
+    "createdAt": "2026-07-23T18:59:55.916Z",
+    "updatedAt": "2026-07-23T18:59:55.916Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_CREATE",
+    "details": "Created product Horlicks Nutrition Drink Jar - 1 kg -  (SKU: Horlicks)",
+    "id": "4kknvb9fe",
+    "createdAt": "2026-07-23T19:01:18.361Z",
+    "updatedAt": "2026-07-23T19:01:18.361Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_UPDATE",
+    "details": "Updated product Dove Anti Hairfall Shampoo 1L (SKU: Shampoo)",
+    "id": "vt6si0iyx",
+    "createdAt": "2026-07-23T19:14:56.197Z",
+    "updatedAt": "2026-07-23T19:14:56.197Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_UPDATE",
+    "details": "Updated product Patanjali Soap Neem Pack of 5 (SKU: soap1)",
+    "id": "g0151r6or",
+    "createdAt": "2026-07-23T19:15:33.816Z",
+    "updatedAt": "2026-07-23T19:15:33.816Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_UPDATE",
+    "details": "Updated product Horlicks Nutrition Drink Jar - 1 kg -  (SKU: Horlicks)",
+    "id": "koqbsn4rf",
+    "createdAt": "2026-07-23T19:15:50.561Z",
+    "updatedAt": "2026-07-23T19:15:50.561Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_UPDATE",
+    "details": "Updated product Dove Anti Hairfall Shampoo 1L (SKU: Shampoo)",
+    "id": "hjfmpix20",
+    "createdAt": "2026-07-23T19:15:59.320Z",
+    "updatedAt": "2026-07-23T19:15:59.320Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_UPDATE",
+    "details": "Updated product Bournvita Chocolate Nutrition Drink, 2 kg (SKU: NA)",
+    "id": "f2yzkxb1i",
+    "createdAt": "2026-07-23T19:16:07.770Z",
+    "updatedAt": "2026-07-23T19:16:07.770Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_UPDATE",
+    "details": "Updated product Horlicks Nutrition Drink Jar - 1 kg -  (SKU: Horlicks)",
+    "id": "e642xqncx",
+    "createdAt": "2026-07-23T19:17:09.657Z",
+    "updatedAt": "2026-07-23T19:17:09.657Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_UPDATE",
+    "details": "Updated product Horlicks Nutrition Drink Jar - 1 kg -  (SKU: Horlicks)",
+    "id": "c8zta7wwa",
+    "createdAt": "2026-07-23T19:19:36.445Z",
+    "updatedAt": "2026-07-23T19:19:36.445Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "fv5sqg7ab",
+    "createdAt": "2026-07-23T19:20:59.937Z",
+    "updatedAt": "2026-07-23T19:20:59.937Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "7xbg2ybxw",
+    "createdAt": "2026-07-23T19:24:58.568Z",
+    "updatedAt": "2026-07-23T19:24:58.568Z"
+  },
+  {
+    "userId": "2vq3v7cki",
+    "userEmail": "sahvijay058@gmail.com",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "qm2s2pc9h",
+    "createdAt": "2026-07-24T17:34:27.204Z",
+    "updatedAt": "2026-07-24T17:34:27.204Z"
+  },
+  {
+    "userId": "tvd2ynd6p",
+    "userEmail": "demo",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "6ydbbahj9",
+    "createdAt": "2026-07-24T17:37:29.463Z",
+    "updatedAt": "2026-07-24T17:37:29.463Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "8dlru6ak2",
+    "createdAt": "2026-07-24T17:37:47.654Z",
+    "updatedAt": "2026-07-24T17:37:47.654Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ADMIN_WALLET_ADJUST",
+    "details": "Admin updated wallet to ₹25,000 (adj: ₹0) and promo wallet to ₹10,000 (adj: ₹10000) for retailer Demo Retailer Store. Reason: GIFT",
+    "id": "u2je8p2b7",
+    "createdAt": "2026-07-24T17:38:10.204Z",
+    "updatedAt": "2026-07-24T17:38:10.204Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "ADMIN_WALLET_ADJUST",
+    "details": "Admin updated wallet to ₹1,00,000 (adj: ₹75000) and promo wallet to ₹10,000 (adj: ₹0) for retailer Demo Retailer Store. Reason: DEMO",
+    "id": "us36kokxb",
+    "createdAt": "2026-07-24T17:38:24.705Z",
+    "updatedAt": "2026-07-24T17:38:24.705Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_CREATE",
+    "details": "Created product OnePlus Bullets Wireless Z3 in-Ear Neckband Red (SKU: Neckband)",
+    "id": "eucnl5pcg",
+    "createdAt": "2026-07-24T17:42:31.642Z",
+    "updatedAt": "2026-07-24T17:42:31.642Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "n2jtp2xsk",
+    "createdAt": "2026-07-25T06:17:39.636Z",
+    "updatedAt": "2026-07-25T06:17:39.636Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "PRODUCT_UPDATE",
+    "details": "Updated product OnePlus Bullets Wireless Z3 in-Ear Neckband Red (SKU: Neckband)",
+    "id": "ij847fdhw",
+    "createdAt": "2026-07-25T06:17:58.230Z",
+    "updatedAt": "2026-07-25T06:17:58.230Z"
+  },
+  {
+    "userId": "tvd2ynd6p",
+    "userEmail": "demo",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "q6st1hf1j",
+    "createdAt": "2026-07-25T06:19:47.048Z",
+    "updatedAt": "2026-07-25T06:19:47.048Z"
+  },
+  {
+    "userId": "tvd2ynd6p",
+    "userEmail": "demo",
+    "userRole": "retailer",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "5q89l0qai",
+    "createdAt": "2026-07-25T06:54:26.928Z",
+    "updatedAt": "2026-07-25T06:54:26.928Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "i6yyjc9zj",
+    "createdAt": "2026-07-25T06:55:17.442Z",
+    "updatedAt": "2026-07-25T06:55:17.442Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "p0b2mgmff",
+    "createdAt": "2026-07-25T06:55:39.590Z",
+    "updatedAt": "2026-07-25T06:55:39.590Z"
+  },
+  {
+    "userId": "g47bw5k8y",
+    "userEmail": "admin@b2b.com",
+    "userRole": "admin",
+    "action": "LOGIN",
+    "details": "Successful password authentication",
+    "id": "oxy2o6b0i",
+    "createdAt": "2026-07-26T06:23:18.573Z",
+    "updatedAt": "2026-07-26T06:23:18.573Z"
+  }
+]
