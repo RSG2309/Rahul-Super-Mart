@@ -21,7 +21,7 @@ export const api = {
     return res.json();
   },
 
-  async post(endpoint: string, data: any) {
+  async post(endpoint: string, data: any = {}) {
     const res = await fetch(`${API_BASE_URL}${endpoint}`, {
       method: 'POST',
       headers: getHeaders(),
@@ -30,7 +30,7 @@ export const api = {
     return res.json();
   },
 
-  async put(endpoint: string, data: any) {
+  async put(endpoint: string, data: any = {}) {
     const res = await fetch(`${API_BASE_URL}${endpoint}`, {
       method: 'PUT',
       headers: getHeaders(),
